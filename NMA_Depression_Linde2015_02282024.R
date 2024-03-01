@@ -1,3 +1,11 @@
+# ESMARConf2023: Workshop 5 - Network meta-analysis using R package netmeta
+# https://www.efspi.org/Documents/Events/Archive/European%20Statistical%20Meeting%20on%20Evidence%20Synthesis/3_G_Ruecker.pdf
+# https://www.youtube.com/watch?v=A4foA25UylY
+
+# network meta-analysis (NMA) : compare relative treatment across studies"
+# NMA can calculate the effect size between treatment groups through indirect treatment comparison, 
+# even if there is no direct comparison study,
+
 # library(meta)  # R package for pairwise meta analysis 
 ######################################################################################################## Frequentist NMA
 ######################################################################################################## Frequentist NMA
